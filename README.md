@@ -36,5 +36,5 @@ The database schema is provided in the ecommerce_db.sql file.
 
 Open ecommerce_db.sql and import it into your MySQL database
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Author
+Sundrani Hasnainraza
