@@ -25,3 +25,16 @@ This is a full-stack e-commerce project built with **Laravel** for the backend a
 ```bash
 git clone https://github.com/your-repository/ecommerce.git
 cd ecommerce
+```
+## Admin Panel
+To access the admin panel, log in as an admin user, and navigate to /admin. Here, you can manage product categories, products, and more.
+
+The admin panel is built using Laravel's built-in authentication, and you can log in with an admin user to access the dashboard.
+
+### 2. Import the database schema:
+The database schema is provided in the ecommerce_db.sql file.
+
+Open ecommerce_db.sql and import it into your MySQL database
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
